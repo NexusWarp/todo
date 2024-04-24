@@ -1,1 +1,1 @@
-To do list app in react
+Fullly MERN stack to do list app.
